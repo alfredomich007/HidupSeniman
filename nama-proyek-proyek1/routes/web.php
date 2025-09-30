@@ -30,3 +30,5 @@ $fakultas = [
 Route::get('/fakultas', function () use ($fakultas) {
     return view('fakultas', ['fakultas' => $fakultas]);
 });
+
+//<!hsyaugubuygduyabuyuagsy!>
